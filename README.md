@@ -1,3 +1,3 @@
 # vishnu
-TODO list.html
+read TODO list.html
 
